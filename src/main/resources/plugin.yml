@@ -1,0 +1,4 @@
+name: CombatAnnouncer
+version: '${project.version}'
+main: org.borke.combatannouncer.Main
+api-version: 1.17

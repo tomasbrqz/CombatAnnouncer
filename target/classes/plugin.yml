@@ -1,0 +1,4 @@
+name: CombatAnnouncer
+version: '1.0-SNAPSHOT'
+main: org.borke.combatannouncer.Main
+api-version: 1.17
