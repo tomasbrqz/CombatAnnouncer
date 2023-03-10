@@ -1,5 +1,6 @@
 # CombatAnnouncer
 CombatAnnouncer
+
 ==================[Spanish]==================
 
 Plugin simple para anunciar cuando los jugadores inician un combate.
